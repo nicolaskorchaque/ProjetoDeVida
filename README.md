@@ -5,7 +5,7 @@ O projeto é sobre um cronômetro digital que demonstra quando vai acontecer tal
 
 
 ## Como usar
-Definido por tópicos a pessoa pode ver quando vai acontecer tal evento. exemplo (tópico A [[Dia|Hora|Minuto|Segundo]], tópico B [[Dia|Hora|Minuto|Segundo]] e topico C [[Dia|Hora|Minuto|Segundo]]) 
+Definido por tópicos a pessoa pode ver quando vai acontecer tal evento. exemplo (tópico A [Dia|Hora|Minuto|Segundo], tópico B [Dia|Hora|Minuto|Segundo] e topico C [Dia|Hora|Minuto|Segundo]) 
 
 
 ## Tecnologias utilizadas
