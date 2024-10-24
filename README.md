@@ -14,6 +14,6 @@ Definido por tópicos a pessoa pode ver quando vai acontecer tal evento. exemplo
 * Javascript 
 
 ## Autores
-Professor: Leonardo 
+Professor: Leonardo Follador
 
 Alunos: Nicolas Korchaque e Yasmin Castilho 
