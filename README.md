@@ -13,9 +13,6 @@ Definido por tópicos a pessoa pode ver quando vai acontecer tal evento. exemplo
 * CSS
 * Javascript 
 
-## Licença
-https://github.com/nicolaskorchaque/ProjetoDeVida/
-
 ## Autores
 Professor: Leonardo 
 
